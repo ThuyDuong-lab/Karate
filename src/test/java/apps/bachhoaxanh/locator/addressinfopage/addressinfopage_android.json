@@ -1,0 +1,3 @@
+{
+  "addressLabel": "//android.view.ViewGroup[contains(@content-desc,'%s')]"
+}

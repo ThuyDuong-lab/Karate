@@ -1,0 +1,5 @@
+{
+
+  "productOptionRadioButton": "//android.view.ViewGroup[contains(@content-desc,'%s')]/android.view.ViewGroup[2]",
+  "BuyButton": "//android.widget.TextView[@resource-id=\"My Text\" and @text=\"MUA\"]"
+}

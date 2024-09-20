@@ -1,0 +1,8 @@
+{
+  "updateDenyButton" :"//XCUIElementTypeStaticText[@name='Not Now']",
+  "searchButton": "//XCUIElementTypeButton[@name='AppStore.tabBar.search']",
+  "searchTextbox": "//XCUIElementTypeSearchField[@name=\"AppStore.searchField\"]",
+  "suggestFirstItem": "//XCUIElementTypeCollectionView[@name=\"AppStore.searchHints\"]/XCUIElementTypeCell[1]",
+  "downloadButton": "//XCUIElementTypeButton[contains(@name,'%s')]/XCUIElementTypeButton",
+  "openButton": "//XCUIElementTypeButton[contains(@name,'%s')]/XCUIElementTypeButton[@name=\"AppStore.offerButton[state=open]\"]"
+}

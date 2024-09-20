@@ -1,0 +1,3 @@
+{
+  "productNameLink": "//android.widget.TextView[@resource-id=\"My Text\" and contains(@text,'%s')]"
+}

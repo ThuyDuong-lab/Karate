@@ -1,0 +1,4 @@
+{
+  "citySearchTextBox": "//XCUIElementTypeTextField[@value='Tìm nhanh tỉnh thành, quận huyện, phường xã']",
+  "addressLabel": "//XCUIElementTypeOther[@name='%s \uF105']"
+}

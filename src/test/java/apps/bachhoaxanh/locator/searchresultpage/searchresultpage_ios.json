@@ -1,0 +1,3 @@
+{
+  "productNameLink": "//XCUIElementTypeStaticText[@name='My Text' and @label='%s'][1]"
+}

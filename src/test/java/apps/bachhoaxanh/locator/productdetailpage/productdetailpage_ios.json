@@ -1,0 +1,5 @@
+{
+
+  "productOptionRadioButton": "//XCUIElementTypeOther[starts-with(@name,'%s')][1]",
+  "BuyButton": "//XCUIElementTypeOther[@name='MUA']"
+}

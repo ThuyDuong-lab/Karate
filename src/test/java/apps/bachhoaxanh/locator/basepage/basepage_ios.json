@@ -1,0 +1,7 @@
+{
+  "searchButton": "//XCUIElementTypeOther[@name=\"Chọn vị trí giao gần bạn\"][1]/../following-sibling::XCUIElementTypeOther/XCUIElementTypeOther[@name]",
+  "searchTextbox": "//XCUIElementTypeTextField[@name=\"header_txt_textinput_search\"]",
+  "suggestedFirstItemLabel": "//XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+  "cartButton": "//XCUIElementTypeOther[@name='%s']",
+  "sharedPositionBarCloseButton":"//XCUIElementTypeOther[@name=\"Chia sẻ\"][1]/XCUIElementTypeOther[2]"
+}

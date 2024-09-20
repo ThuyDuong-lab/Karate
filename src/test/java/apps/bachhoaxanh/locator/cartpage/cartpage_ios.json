@@ -1,0 +1,3 @@
+{
+  "productNameLabel": "//XCUIElementTypeOther[contains(@name,'%s')][1]"
+}
